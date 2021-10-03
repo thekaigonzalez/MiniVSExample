@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Kai D. Gonzalez"
+	],
+	"copyright": "Copyright © 2021, Kai D. Gonzalez",
+	"description": "A VSCode recreation",
+	"license": "MIT",
+	"name": "minivsexample"
+}

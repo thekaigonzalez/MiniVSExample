@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/minivsexample
+minivsexample.so
+minivsexample.dylib
+minivsexample.dll
+minivsexample.a
+minivsexample.lib
+minivsexample-test-*
+*.exe
+*.o
+*.obj
+*.lst
